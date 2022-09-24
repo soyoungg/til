@@ -1,7 +1,10 @@
 # TIL
 > Today I Learned
+---
+## Contents
+- [Java](#java)
+- [Network](#network)
+---
+# Java
 
-# Contents
-* [Java](#java)
-
-## Java
+# Network
